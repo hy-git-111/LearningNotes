@@ -338,10 +338,10 @@ Include Controller보다 구조파악하기 쉬움
 * Hits Per Second : 시간에 따른 작업 처리 수 그래프
 
 * 이상적인 Hits Per Second
-![alt text](img/Hit_per_second_1.PNG)
+![alt text](img/Hit_per_second_1.png)
 
 * 임계점에 도달한 Hits Per Second
-![alt text](img/Hit_per_second_2.PNG)
+![alt text](img/Hit_per_second_2.png)
     * 시스템 최대 처리량 도달
     * 병목 발생
 
