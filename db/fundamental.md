@@ -191,11 +191,7 @@
 
 5. 관계 참여도/카디널리티 표현
     * 관계 차수
-    - | : 1대1 관계
-    - ---<까마귀발(crow-feet) : 1대 M 관계
-
-    <span style="color:darkgray">**IE 표기법 : O 표시로 선택적 참여  
-    Barker 표기법 : 실선/점선으로 참여 필수 여부 표현, crow's foot 사용**</span>
+    ![alt text](img/ERD_카디널리티.png)
 
 6. 속성 정의 : 엔터티마다 주요 속성(필드) 추가
 
